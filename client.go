@@ -1,4 +1,4 @@
-package worker
+package goque
 
 import "gopkg.in/redis.v3"
 
